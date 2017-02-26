@@ -1,4 +1,4 @@
-# OC-MicroCMS
+# microcms
 
 Support du cours OpenClassrooms "Evoluer vers une architecture PHP professionnelle".
 
